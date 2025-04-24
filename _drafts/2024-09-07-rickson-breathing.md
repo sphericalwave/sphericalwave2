@@ -1,6 +1,6 @@
 ---
 title: Rickson breathing
-layout: post
+layout: single
 image: /public/rickson_breathing.png
 tags:
 - Breathing

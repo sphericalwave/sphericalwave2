@@ -1,3 +1,12 @@
+---
+layout: single
+title: "Quaternions"
+image: /public/fitwrench/Cuboctahedron_1080.png
+tags: 
+ - iOS
+ - Acoustics
+---
+
 James Clerk Maxwell originally formulated his electromagnetic theory using 20 equations in his 1865 paper **"A Dynamical Theory of the Electromagnetic Field"**. This formulation was significantly different from the four simplified vector calculus equations that we use today (the modern **Maxwell's equations**). Maxwell's original set of equations involved many more variables and quaternion-based mathematics.
 
 While the equations themselves are not typically presented in modern quaternionic form today, they were written in a mix of scalar and vector quantities and required several more steps to simplify. Let me walk you through the historical progression of these equations and explain how they connected to quaternionic mathematics.
